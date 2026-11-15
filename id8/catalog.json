@@ -1,0 +1,25 @@
+{
+ "schema": 2,
+ "components": [
+  {
+   "id": "zd8_performance_id8",
+   "kind": "app",
+   "title": "ZD8 性能调校",
+   "description": "ZD8 性能调校（iDrive 8）：程序切换、排气阀门、回火、主动声浪、马力机、加速计时、变速箱实时页、仪表、主屏大号小组件",
+   "author": "ZD8",
+   "version": "3.2.25",
+   "uninstallable": true,
+   "mguHmi": [
+    "ID8"
+   ],
+   "artifact": {
+    "name": "zd8_performance_id8@3.2.25.tgz",
+    "size": 1039993,
+    "sha256": "5012b84e9f92f7d4a146f9baf2a7f06dc4726f33b3f72c7e9fe36e4950c686f5",
+    "url": "zd8_performance_id8@3.2.25.tgz"
+   },
+   "icon": "zd8_performance_id8_icon.png",
+   "iconSha256": "09b674b77149b60c72fddc7ef9a760800fa913540a90f8fe2f9d68cbddf8cfb2"
+  }
+ ]
+}
